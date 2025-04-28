@@ -1,51 +1,70 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20There!%20👋🏼;%20I'm%20Megha%20Panicker!;%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer;&center=true&width=500&height=50">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </p>
 
-🎓 MS Computer Science Student @ University of Texas at Arlington | Expected Graduation: Dec 2025
-💻 Passionate about Full-Stack Development, Artificial Intelligence, and Building Scalable Solutions
-🔍 Exploring AI-driven systems, cloud-native apps, and intelligent automation!
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=9F70FD&width=435&lines=Hi+There!+👋🏼;I'm+Megha+Panicker!;AI+Enthusiast+%7C+Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
-🚀 Tech Stack
-Programming Languages: Python, Java, JavaScript, SQL, R, C, C++, Shell Scripting
+<h2 align="center">🚀 About Me</h2>
 
-Frontend: React.js, HTML5, CSS3, TailwindCSS, JQuery
+- 🎓 MS Computer Science Student @ **University of Texas at Arlington** (Graduating Dec 2025)
+- 💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Scalable Solutions**
+- 🔍 Exploring **Generative AI**, **Data Engineering**, **Cloud Computing**, and **AIOps**
 
-Backend: Node.js, Express.js, Django, REST APIs, Microservices, Serverless Computing
+<br/>
 
-Databases: MongoDB, MySQL, Oracle, Firebase
+<h2 align="center">🛠️ Tech Stack</h2>
 
-AI / Data Science:
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-Machine Learning: Scikit-Learn, XGBoost, Random Forest, Ensemble Methods
+<br/>
 
-Deep Learning: TensorFlow, PyTorch, Keras (CNNs, RNNs, Transformers like BERT & GPT)
+<h2 align="center">🌱 Currently Learning</h2>
 
-NLP: Hugging Face, LangChain, OpenAI APIs, LlamaIndex
-
-Computer Vision: OpenCV, Image Classification, Object Detection
-
-Big Data: Apache Spark, Hadoop
-
-Cloud & Tools: AWS (SageMaker, EC2, S3), GCP, Azure ML, Docker, Kubernetes, Apache Airflow
-
-Others: Git, GitHub, Postman, JIRA, Agile & Scrum Methodologies
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meghajpanicker&show_icons=true&theme=tokyonight" alt="Megha's GitHub stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghajpanicker&theme=tokyonight" alt="GitHub Streak" width="400"/> </p>
-🌱 Currently Learning
-Generative AI and Large Language Models (LLMs)
-
-Advanced Cloud Architecture (AWS/GCP)
-
-Data Engineering and MLOps
-
-AIOps for IT Maintenance
+- 🔥 Large Language Models (LLMs), Hugging Face, LangChain
+- ☁️ Cloud-Native Architectures (AWS, GCP)
+- ⚡ Data Pipelines & MLOps
+- 🤖 AIOps for IT Incident Management
 
 
-📬 Let's Connect!
-LinkedIn : https://www.linkedin.com/in/meghapanicker/
-📧 Email: mxj9096@mavs.uta.edu
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghajpanicker&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghajpanicker&theme=tokyonight" width="400"/>
+</p>
+
+<br/>
+
+<h2 align="center">📬 Connect with me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/meghapanicker"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mxj9096@mavs.uta.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/meghajpanicker"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<br/>
+
+---
+
+
 
 <!--
 **meghajpanicker/meghajpanicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
